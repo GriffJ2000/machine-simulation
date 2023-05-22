@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1684699157 source:/home/griffin/Repos/TuringMachine/TuringMachine/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Node.h"
+	"Adj_List.h"
+	"read_machine.h"
+
+1683148817 /home/griffin/Repos/TuringMachine/TuringMachine/Node.h
+
+1683150879 source:/home/griffin/Repos/TuringMachine/TuringMachine/Node.c
+	"Node.h"
+	<stdio.h>
+	<stdlib.h>
+
+1684696163 source:/home/griffin/Repos/TuringMachine/TuringMachine/Adj_List.c
+	"Adj_List.h"
+	<stdlib.h>
+	<stdio.h>
+
+1684696165 /home/griffin/Repos/TuringMachine/TuringMachine/Adj_List.h
+
+1684699220 source:/home/griffin/Repos/TuringMachine/TuringMachine/read_machine.c
+	<stdio.h>
+	<stdlib.h>
+	"read_machine.h"
+	"Adj_List.h"
+
+1684623717 /home/griffin/Repos/TuringMachine/TuringMachine/read_machine.h
+	"Adj_List.h"
+

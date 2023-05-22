@@ -1,0 +1,10 @@
+6
+0 BBR 0
+0 aAR 1
+1 BBR 1
+1 aaR 1
+1 bBL 2
+2 BBL 2
+2 aaL 2
+2 AAR 0
+0 NNS 3
